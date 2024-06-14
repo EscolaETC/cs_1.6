@@ -1,0 +1,3 @@
+CS 1.6 - https://drive.google.com/file/d/1rrI7rUHuUJJnULWius3fbMWPcnDC7DVB/view?usp=drivesdk
+Server - https://drive.google.com/file/d/18c43MiJzp8dD_anDFKt2Sd7SdAfQhDtE/view?usp=drive_link
+Nodejs - https://nodejs.org/dist/v20.14.0/node-v20.14.0-win-x64.zip
